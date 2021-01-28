@@ -1,8 +1,6 @@
 ##	oasys(OA自动化办公系统)
  办公自动化（OA）是面向组织的日常运作和管理，员工及管理者使用频率最高的应用系统，极大提高公司的办公效率。
  
-
-
 <!-- <img src="https://images.gitee.com/uploads/images/2019/0730/114215_38a24a48_1277461.jpeg" width="300"  align=center /> -->
 
 ###	1.项目介绍
@@ -26,9 +24,14 @@ oasys是一个OA办公自动化系统，使用Maven进行项目管理，基于sp
 | :--------: | :--------:|:---:|:------:|
 |SpringBoot|SpringBoot框架|1.5.6.RELEASE|https://spring.io/projects/spring-boot|
 |JPA|spring-data-jpa|1.5.6.RELEASE|https://projects.spring.io/spring-data-jpa|
-|Mybatis|Mybatis框架|1.3.0|http://www.mybatis.org/mybatis-3|
+|Mybatis|Mybatis框架|2.1.3|http://www.mybatis.org/mybatis-3|
 |fastjson|json解析包|1.2.36|https://github.com/alibaba/fastjson|
 |pagehelper|Mybatis分页插件|1.0.0|https://pagehelper.github.io|
+
+#### 数据库
+| 技术 | 名称 | 版本 | 官网 |
+| :--------: | :--------:|:---:|:------:|
+|MySQL|MySQL数据库|8.0.20|https://dev.mysql.com/doc/relnotes/connector-j/8.0/en/news-8-0-20.html|
 
 ### 3.部署流程
 
