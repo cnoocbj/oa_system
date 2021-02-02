@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="discard long time none received connection" />
+      <item value="will not be managed by Spring" />
       <item value="cannot be cast to java.lang.String" />
       <item value="==&gt; Preparing: select id, `name`, city, age from student where id = ? ==&gt; Parameters: 1(Integer)" />
       <item value="remote: Enumerating objects: 231, done. 7008 bytes of body are still expected the remote end hung up unexpectedly early EOF" />
