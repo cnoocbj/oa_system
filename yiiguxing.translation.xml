@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not get a resource since the pool is exhausted" />
       <item value="Git Pull Failed From http://10.72.76.54/lipw4/SpringBoot_Redis * branch master -&gt; FETCH_HEAD = [up to date] master -&gt; origin/master refusing to merge unrelated histories" />
       <item value="Push rejected Push to origin/master was rejected" />
       <item value="discard long time none received connection" />
@@ -12,8 +13,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>
