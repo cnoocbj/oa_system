@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A query was run and no Result Maps were found for the Mapped Statement" />
       <item value="Missing URI template variable 'id' for method parameter of type Integer" />
       <item value="Course" />
       <item value="Could not get a resource since the pool is exhausted" />
@@ -15,8 +16,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>

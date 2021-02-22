@@ -1,0 +1,7 @@
+<templateSet group="UserComment">
+  <template name="*" value="**&#10;&#9; * @Title: &#10;&#9; * @Description: &#10;&#9; * @param: &#10;&#9; * @return: &#10;&#9; * @see &#10;&#9; */" description="方法注释" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
