@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot start built-in HTTP server on custom port 63330. Please ensure that port is free (or check your firewall settings) and restart IntelliJ IDEA" />
       <item value="func Name" />
       <item value="declaring Type Name" />
       <item value="A query was run and no Result Maps were found for the Mapped Statement" />
@@ -18,8 +19,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>
