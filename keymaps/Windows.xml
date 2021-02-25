@@ -5,4 +5,7 @@
   <action id="EditorIncreaseFontSize">
     <mouse-shortcut keystroke="control button143" />
   </action>
+  <action id="com.alibabacloud.intellij.action.OpenHostViewAction">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
 </keymap>
