@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rejected value" />
+      <item value="Field error in object 'email' on field 'file': rejected value [org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@2e15c862]; codes [typeMismatch.email.file,typeMismatch.file,typeMismatch.java.io.File,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [email.file,file]; arguments []; default message [file]]; default message [Failed to convert property value of type 'org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile' to required type 'java.io.File' for property 'file'; nested exception is java.lang.IllegalArgumentException: Cannot convert value of type 'org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile' to required type 'java.io.File' for property 'file': PropertyEditor [org.springframework.beans.propertyeditors.FileEditor] returned inappropriate value of type 'org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile']]" />
+      <item value="org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'multipart/form-data;boundary=----WebKitFormBoundaryGOBX500cfxufMxBr;charset=UTF-8' not supported" />
       <item value="Required String parameter 'to' is not present" />
       <item value="Local address contains illegal character" />
       <item value="template might not exist or might not be accessible by any of the configured Template Resolvers] with root cause" />
@@ -23,8 +26,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="23" />
       </map>
     </option>
   </component>
