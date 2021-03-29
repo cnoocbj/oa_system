@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="E:/mdm8.0" startUpFlag="FIRST" />
     <entry projectPath="E:/mdm_8.1.6.1_16022" startUpFlag="FIRST" />
     <entry projectPath="E:/workspace/SpringBoot-Redis" startUpFlag="FIRST" />
     <entry projectPath="E:/workspace/SpringCloudTest01" startUpFlag="FIRST" />
