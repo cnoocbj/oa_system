@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org/springframework/session/config/annotation/web/http/" />
       <item value="Your ApplicationContext is unlikely to start due to a @ComponentScan of the default package" />
       <item value="Source must refer to an existing file" />
       <item value="javax.mail.AuthenticationFailedException: 535 5.7.3 Authentication unsuccessful" />
@@ -46,8 +47,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
