@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unable to parse configuration of mojo" />
       <item value="Malformed POM E:\mdm8.0\framework\i-core\pom.xml: Unrecognised tag: 'excludes' (position: START_TAG seen ...&lt;/configuration&gt;\r\n" />
       <item value="org/springframework/session/config/annotation/web/http/" />
       <item value="Your ApplicationContext is unlikely to start due to a @ComponentScan of the default package" />
@@ -48,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
